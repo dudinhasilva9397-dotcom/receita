@@ -26,3 +26,19 @@ div img {
 h1, h2 {
     font-family: 'Lora', serif;
 }
+
+h1{
+    font-size: 40px;
+}
+
+p, li, th, td {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    color: #312e2c;
+    line-height: 160%;
+}
+
+p{
+    color: #5f564d;
+    line-height: 150%;
+}
